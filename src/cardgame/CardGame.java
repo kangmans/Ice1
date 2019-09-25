@@ -10,6 +10,7 @@ package cardgame;
  * @author User
  September 24, 2019
  Inclass 1 Activity test
+ This is the branch
  */
 public class CardGame {
 

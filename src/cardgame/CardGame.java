@@ -8,6 +8,7 @@ package cardgame;
 /**
  *
  * @author User
+ September 24, 2019
  */
 public class CardGame {
 

@@ -9,7 +9,7 @@ package cardgame;
  *
  * @author User
  September 24, 2019
- Inclass 1 Activity
+ Inclass 1 Activity test
  */
 public class CardGame {
 
